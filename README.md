@@ -4,5 +4,6 @@
 DAY - 1
 
 What is DevOps?
-DevOps is a transformative approach that bridges the gap between software development (Dev) and IT operations (Ops). It emphasizes collaboration, automation, and continuous delivery to streamline the software development lifecycle and improve the quality and reliability of software releases.
-
+Why DevOps?
+How to Introduce Yourself?
+what will be the daily activities of a DevOps Engineer?
